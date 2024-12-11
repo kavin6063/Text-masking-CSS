@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(10, 10, 10); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-align: center;
+    color: white;
+    /* color: transparent;
+    background-image: url("water.jpg");
+    background-size: cover;
+background-clip: text; */
+
+}
